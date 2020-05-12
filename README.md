@@ -1,2 +1,2 @@
 # geospatial
-Geospatial data for World, European, and Italy statistical units.
+Geospatial data in GeoJSON and R format, for World, European, US and Italian statistical units.
